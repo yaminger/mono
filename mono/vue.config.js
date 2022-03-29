@@ -1,4 +1,3 @@
 module.exports = {
-  assetsDir: 'static',
-  outputDir: '../publish'
+  assetsDir: 'static'
 }
